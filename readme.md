@@ -67,7 +67,7 @@ Another method is to access original and proposed values. Here we have mocked da
 
 ## Examining changed data with an Interceptor
 
-What is an interceptor?
+What is an [interceptor](https://learn.microsoft.com/en-us/ef/core/logging-events-diagnostics/interceptors)?
 
 From Microsoft 
 *Entity Framework Core (EF Core) interceptors enable interception, modification, and/or suppression of EF Core operations. This includes low-level database operations such as executing a command, as well as higher-level operations, such as calls to SaveChanges.*
