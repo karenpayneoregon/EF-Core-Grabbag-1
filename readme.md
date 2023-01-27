@@ -6,7 +6,7 @@ Also, many of these developers come from working with a data provider, writing S
 
 ## Source code
 
-Requires Microsoft Visual Studio 2022, 17.4.x. Clone the following GitHub repository.
+Requires Microsoft Visual Studio 2022, 17.4.x. Clone the following [GitHub repository](https://github.com/karenpayneoregon/EF-Core-Grabbag-1).
 
 ## Examining changed data DebugView.LongView
 
